@@ -1,0 +1,3 @@
+name=Jager
+author=Zack Explosion
+image=jager.bmp
